@@ -6,7 +6,7 @@
         }
 
     ],
-    "router":[
+    "routes":[
         {
             "src":"/(.*)","dist":"index.js"
         }
